@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="venky-suite">
+<test name="venky-test">
+
+<classes>
+
+  <class name="myPack.Venky"/>
+
+</classes>
+
+</test>
+</suite>
